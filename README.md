@@ -6,9 +6,9 @@ The source code for
 
 # **Requirements**
 
-tensorflow-addons
-PubChemPy
-openpyxl==3.0.9
+# tensorflow-addons
+# PubChemPy
+# openpyxl==3.0.9
 openpyxl
 networkx
 tensorflow
