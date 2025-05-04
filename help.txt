@@ -1,0 +1,20 @@
+Getting Started with the Code
+
+To successfully run the code, follow these steps:
+
+Step 1: Install Required Libraries
+Ensure you have all the necessary libraries installed by running the following command in your terminal:
+
+pip install -r requirements.txt
+This will install all the dependencies listed in the requirements.txt file.
+
+Step 2: Configure Dataset Path
+Open the main code file and locate the line where the dataset_path variable is set. Update this variable to point to the directory containing your dataset folders.
+
+Step 3: Set Hyperparameters
+Search for the section marked with # Hyperparameters in the code. Carefully review and set the hyperparameters according to your specific requirements. This section controls the behavior of the model, including parameters such as learning rate, batch size, and number of epochs.
+
+Step 4: Run the Code
+Once you have completed the above steps, you can run the code. Ensure that you have properly set the dataset_path and hyperparameters to avoid any errors or unexpected behavior.
+
+By following these steps, you should be able to successfully run the code and start exploring the model's capabilities.
