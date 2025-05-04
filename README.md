@@ -1,11 +1,12 @@
-#Drug-Drug Synergy
+**Drug-Drug Synergy
 
 ########################################################################################### 
 The source code for
 
-Drug-Drug Synergy Prediction by Jointly Considering Cross-Drug Similarities and Cross-Local Substructure Similarities
+*Drug-Drug Synergy Prediction by Jointly Considering Cross-Drug Similarities and Cross-Local Substructure Similarities
+
 ###########################################################################################
-#Requirements
+**Requirements
 
 tensorflow-addons
 PubChemPy
